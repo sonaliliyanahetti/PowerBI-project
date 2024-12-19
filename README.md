@@ -28,4 +28,5 @@ STEP 4:Power BI Desktop – Data Exploration
 >Add a Data Analysis Expressions (DAX) as Unit price in sales query.(The RELATED DAX function is used to return a related value from another table)
 >create a measure an type a DAX formular to Total orders using DISTINCTCOUNT()
 
-![Screenshot 2024-12-19 160254](https://github.com/user-attachments/assets/893bd000-914f-415e-86b0-aa3fd787c926)
+
+![Screenshot 2024-12-19 194527](https://github.com/user-attachments/assets/f3d46338-d8b9-489a-8b86-1bcadba52c9d)
